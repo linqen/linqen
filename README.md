@@ -5,9 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://linkedin.com/in/sebastianavena" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+  <a href="https://twitter.com/sebavena" target="blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
 ###
@@ -20,7 +19,7 @@
 
 ###
 
-<p align="left">Hey! I'm a Game developer that decided to go his way into the industry, so after years of working for companies, now I work on my own.<br><br>Working with Unreal Engine since 2018, and not planning to stop.<br><br>Currently I'm leading the development of a Tower Defense - Shooter game called BrainZ.<br><br>Giving shape to a new Indie studio called SoulCraft, check the website:</p>
+<p align="left">Hey! I'm a Game developer that decided to go his way into the industry, so after years of working for companies, now I work on my own.<br><br>Working with Unreal Engine since 2018, and not planning to stop.<br><br>Currently I'm leading the development of a Tower Defense - Shooter game called BrainZ.<br><br>Giving shape to a new Indie studio called SoulCraft, check the website [Here](https://www.soulcraft.games/) </p>
 
 ###
 
