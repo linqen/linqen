@@ -19,7 +19,10 @@
 
 ###
 
-<p align="left">Hey! I'm a Game developer that decided to go his way into the industry, so after years of working for companies, now I work on my own.<br><br>Working with Unreal Engine since 2018, and not planning to stop.<br><br>Currently I'm leading the development of a Tower Defense - Shooter game called BrainZ.<br><br>Giving shape to a new Indie studio called SoulCraft, check the website [Here](https://www.soulcraft.games/) </p>
+Hey! I'm a Game developer that decided to go his way into the industry, so after years of working for companies, now I work on my own.<br>
+<br>Working with Unreal Engine since 2018, and not planning to stop.<br>
+<br>Currently I'm leading the development of a Tower Defense - Shooter game called BrainZ.<br>
+<br>Giving shape to a new Indie studio called SoulCraft, [Check the website](www.soulcraft.games)
 
 ###
 
